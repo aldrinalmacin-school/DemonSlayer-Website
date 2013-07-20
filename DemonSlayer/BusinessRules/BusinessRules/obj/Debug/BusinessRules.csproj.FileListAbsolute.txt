@@ -1,0 +1,10 @@
+G:\COMP2007\lesson9\lesson9\BusinessRules\bin\Debug\BusinessRules.dll
+G:\COMP2007\lesson9\lesson9\BusinessRules\bin\Debug\BusinessRules.pdb
+G:\COMP2007\lesson9\lesson9\BusinessRules\obj\Debug\ResolveAssemblyReference.cache
+G:\COMP2007\lesson9\lesson9\BusinessRules\obj\Debug\BusinessRules.dll
+G:\COMP2007\lesson9\lesson9\BusinessRules\obj\Debug\BusinessRules.pdb
+G:\COMP2007\lesson10\BusinessRules\bin\Debug\BusinessRules.dll
+G:\COMP2007\lesson10\BusinessRules\bin\Debug\BusinessRules.pdb
+G:\COMP2007\lesson10\BusinessRules\obj\Debug\ResolveAssemblyReference.cache
+G:\COMP2007\lesson10\BusinessRules\obj\Debug\BusinessRules.dll
+G:\COMP2007\lesson10\BusinessRules\obj\Debug\BusinessRules.pdb
