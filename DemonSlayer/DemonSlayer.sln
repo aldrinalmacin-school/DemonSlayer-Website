@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Web Developer Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemonSlayer", "DemonSlayer\DemonSlayer.csproj", "{0D7B9F6C-78AA-4F07-8FD3-0A28C51BE733}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRules", "BusinessRules\BusinessRules.csproj", "{5886097A-83E8-4155-B467-06C053F9DE2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{0D7B9F6C-78AA-4F07-8FD3-0A28C51BE733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D7B9F6C-78AA-4F07-8FD3-0A28C51BE733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D7B9F6C-78AA-4F07-8FD3-0A28C51BE733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5886097A-83E8-4155-B467-06C053F9DE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5886097A-83E8-4155-B467-06C053F9DE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5886097A-83E8-4155-B467-06C053F9DE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5886097A-83E8-4155-B467-06C053F9DE2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

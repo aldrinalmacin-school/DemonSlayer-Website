@@ -13,5 +13,12 @@ namespace DemonSlayer
     {
 
     }
+
+    protected void btnRegister_Click(object sender, EventArgs e)
+    {
+      BusinessRules.CUser objUser = new BusinessRules.CUser();
+      objUser.register(txtUsername.Text, txtPassword.Text, rblRole.SelectedValue);
+      Response.Redirect("Login.aspx", true);
+    }
   }
 }

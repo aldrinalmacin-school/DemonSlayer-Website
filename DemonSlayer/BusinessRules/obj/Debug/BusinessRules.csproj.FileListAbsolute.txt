@@ -1,0 +1,4 @@
+C:\Users\L\Documents\GitHub\DemonSlayer-Website\DemonSlayer\BusinessRules\bin\Debug\BusinessRules.dll
+C:\Users\L\Documents\GitHub\DemonSlayer-Website\DemonSlayer\BusinessRules\bin\Debug\BusinessRules.pdb
+C:\Users\L\Documents\GitHub\DemonSlayer-Website\DemonSlayer\BusinessRules\obj\Debug\BusinessRules.dll
+C:\Users\L\Documents\GitHub\DemonSlayer-Website\DemonSlayer\BusinessRules\obj\Debug\BusinessRules.pdb

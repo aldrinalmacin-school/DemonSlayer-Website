@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head runat="server">
-    <title></title>
+    <title>Demon Slayer Website</title>
     <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
@@ -32,6 +32,12 @@
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
+                        <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Login"/>
+                        <asp:MenuItem NavigateUrl="~/Register.aspx" Text="Register"/>
+                        <asp:MenuItem NavigateUrl="~/Admin/ControlPanel.aspx" Text="Control Panel" Enabled="false"/>
+                        <asp:MenuItem  NavigateUrl="~/Admin/EditHome.aspx" Text="Edit Home" Enabled="false"/>
+                        <asp:MenuItem NavigateUrl="~/Admin/EditMedia.aspx" Text="Edit Media" Enabled="false"/>
+                        <asp:MenuItem NavigateUrl="~/Admin/EditUsers.aspx" Text="Edit Users" Enabled="false"/>
                         <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
                     </Items>
                 </asp:Menu>
