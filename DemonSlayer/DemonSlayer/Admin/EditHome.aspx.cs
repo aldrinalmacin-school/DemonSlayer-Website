@@ -13,5 +13,14 @@ namespace DemonSlayer.Admin
     {
 
     }
+
+    protected void btnPost_Click(object sender, EventArgs e)
+    {
+
+      BusinessRules.CPost objPost = new BusinessRules.CPost();
+      int userID = BusinessRules.CUser.getUserID(HttpContext.Current.User.Identity.Name);
+      objPost.createPost(txtPost.Text, userID);
+      Response.Redirect("/Default.aspx", true);
+    }
   }
 }

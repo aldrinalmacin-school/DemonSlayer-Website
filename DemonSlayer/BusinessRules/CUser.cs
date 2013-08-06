@@ -19,6 +19,27 @@ namespace BusinessRules
       return Convert.ToBase64String(hash);
     }
 
+    public static int getUserID(string username)
+    {
+      SqlConnection objConn = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["strConn"].ConnectionString);
+
+      objConn.Open();
+      string strSQL = "SELECT UserID FROM Users WHERE Username = '" + username + "'";
+      int userID = -1;
+      SqlCommand objCmd = new SqlCommand(strSQL, objConn);
+
+      SqlDataReader objRdr = objCmd.ExecuteReader();
+
+      while (objRdr.Read())
+      {
+        userID = objRdr.GetInt32(0);
+      }
+
+      objCmd.Dispose();
+      objConn.Close();
+      return userID;
+    }
+
     public string getRandomSalt(Int32 size = 12)
     {
       var random = new RNGCryptoServiceProvider();

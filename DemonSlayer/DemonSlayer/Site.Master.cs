@@ -29,11 +29,11 @@ namespace DemonSlayer
       }
       else
       {
-        NavigationMenu.Items[3].Enabled = false;
-        NavigationMenu.Items[4].Enabled = false;
-        NavigationMenu.Items[5].Enabled = false;
-        NavigationMenu.Items[6].Enabled = false;
-        NavigationMenu.Items[7].Enabled = false;
+        //NavigationMenu.Items[3].Enabled = false;
+        //NavigationMenu.Items[4].Enabled = false;
+        //NavigationMenu.Items[5].Enabled = false;
+        //NavigationMenu.Items[6].Enabled = false;
+        //NavigationMenu.Items[7].Enabled = false;
       }
     }
   }
