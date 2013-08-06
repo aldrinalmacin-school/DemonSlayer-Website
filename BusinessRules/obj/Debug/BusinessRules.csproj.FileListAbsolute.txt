@@ -1,0 +1,5 @@
+C:\Users\RichMac\Documents\Teaching\COMP2007\Labs\lab4\lab4_solution\BusinessRules\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RichMac\Documents\Teaching\COMP2007\Labs\lab4\lab4_solution\BusinessRules\bin\Debug\BusinessRules.dll
+C:\Users\RichMac\Documents\Teaching\COMP2007\Labs\lab4\lab4_solution\BusinessRules\bin\Debug\BusinessRules.pdb
+C:\Users\RichMac\Documents\Teaching\COMP2007\Labs\lab4\lab4_solution\BusinessRules\obj\Debug\BusinessRules.dll
+C:\Users\RichMac\Documents\Teaching\COMP2007\Labs\lab4\lab4_solution\BusinessRules\obj\Debug\BusinessRules.pdb
